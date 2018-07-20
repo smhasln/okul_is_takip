@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Çınarlı Online Arıza</string>
+
+    <string-array name="birimler">
+        <item>Bir birim seçiniz..</item>
+        <item>Teknik Md. Yard.</item>
+        <item>Bilişim</item>
+        <item>Denizcilik</item>
+        <item>Elektrik - Elektronik</item>
+        <item>Harita - Tapu Kadostro</item>
+        <item>İnşaat</item>
+        <item>Makina</item>
+        <item>Mobilya</item>
+        <item>RTV</item>
+        <item>Tesisat ve İklimlendirme</item>
+    </string-array>
+</resources>
